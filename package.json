@@ -1,18 +1,28 @@
 {
   "name": "project3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Graphql",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tim",
   "license": "ISC",
   "dependencies": {
+    "apollo": "^2.33.6",
     "concurrently": "^6.2.1",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^6.0.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothysepulvado/Project3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timothysepulvado/Project3/issues"
+  },
+  "homepage": "https://github.com/timothysepulvado/Project3#readme"
 }
