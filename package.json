@@ -1,0 +1,23 @@
+{
+  "name": "ATTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothysepulvado/ATTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothysepulvado/ATTS/issues"
+  },
+  "homepage": "https://github.com/timothysepulvado/ATTS#readme",
+  "dependencies": {
+    "concurrently": "^6.2.2"
+  }
+}
